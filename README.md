@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TitikAndini or you can call me "andini";
-- 👀 I’m interested in all programming languages
-- 🌱 I’m currently learning Laravel and Reactjs
+- 👀 I’m interested in all programming language
+- 🌱 I’m currently learning PHP, System Analyst, and Software Tester
 - 💞️ I want to collaborate on a programming language that I'm learning -> laravel;
 - 📫 How to reach me == andinititik53@gmail.com
 
